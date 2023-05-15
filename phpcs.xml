@@ -18,5 +18,8 @@
     <rule ref="PSR12.Classes.ClosingBrace">
         <include-pattern>./src/PSR12/Classes/ClosingBrace/*.php</include-pattern>
     </rule>
+    <rule ref="PSR12.Classes.OpeningBraceSpace">
+        <include-pattern>./src/PSR12/Classes/OpeningBraceSpace/*.php</include-pattern>
+    </rule>
 
 </ruleset>
