@@ -8,4 +8,9 @@
     <arg name="report-full"/>
     <arg value="sp"/>
 
+    <!-- PSR-12 -->
+    <rule ref="PSR12.Classes.AnonClassDeclaration">
+        <include-pattern>./src/PSR12/Classes/AnonClassDeclaration/*.php</include-pattern>
+    </rule>
+
 </ruleset>
