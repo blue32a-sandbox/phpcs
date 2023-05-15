@@ -1,0 +1,13 @@
+{
+    "name": "blue32a-sandbox/phpcs",
+    "type": "project",
+    "license": "proprietary",
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^8.2",
+        "squizlabs/php_codesniffer": "^3.7"
+    },
+    "scripts": {
+        "phpcs": "vendor/bin/phpcs --standard=phpcs.xml"
+    }
+}
