@@ -27,5 +27,8 @@
     <rule ref="PSR12.ControlStructures.ControlStructureSpacing">
         <include-pattern>./src/PSR12/ControlStructures/ControlStructureSpacing/*.php</include-pattern>
     </rule>
+    <rule ref="PSR12.Files.DeclareStatement">
+        <include-pattern>./src/PSR12/Files/DeclareStatement/*.php</include-pattern>
+    </rule>
 
 </ruleset>
