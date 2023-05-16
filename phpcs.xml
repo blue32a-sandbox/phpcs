@@ -36,5 +36,8 @@
     <rule ref="PSR12.Files.ImportStatement">
         <include-pattern>./src/PSR12/Files/ImportStatement/*.php</include-pattern>
     </rule>
+    <rule ref="PSR12.Files.OpenTag">
+        <include-pattern>./src/PSR12/Files/OpenTag/*.php</include-pattern>
+    </rule>
 
 </ruleset>
