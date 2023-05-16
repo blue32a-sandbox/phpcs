@@ -24,5 +24,8 @@
     <rule ref="PSR12.ControlStructures.BooleanOperatorPlacement">
         <include-pattern>./src/PSR12/ControlStructures/BooleanOperatorPlacement/*.php</include-pattern>
     </rule>
+    <rule ref="PSR12.ControlStructures.ControlStructureSpacing">
+        <include-pattern>./src/PSR12/ControlStructures/ControlStructureSpacing/*.php</include-pattern>
+    </rule>
 
 </ruleset>
