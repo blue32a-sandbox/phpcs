@@ -30,5 +30,8 @@
     <rule ref="PSR12.Files.DeclareStatement">
         <include-pattern>./src/PSR12/Files/DeclareStatement/*.php</include-pattern>
     </rule>
+    <rule ref="PSR12.Files.FileHeader">
+        <include-pattern>./src/PSR12/Files/FileHeader/*.php</include-pattern>
+    </rule>
 
 </ruleset>
