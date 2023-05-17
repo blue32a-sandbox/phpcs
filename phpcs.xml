@@ -42,5 +42,8 @@
     <rule ref="PSR12.Functions.NullableTypeDeclaration">
         <include-pattern>./src/PSR12/Functions/NullableTypeDeclaration/*.php</include-pattern>
     </rule>
+    <rule ref="PSR12.Functions.ReturnTypeDeclaration">
+        <include-pattern>./src/PSR12/Functions/ReturnTypeDeclaration/*.php</include-pattern>
+    </rule>
 
 </ruleset>
