@@ -54,5 +54,8 @@
     <rule ref="PSR12.Operators.OperatorSpacing">
         <include-pattern>./src/PSR12/Operators/OperatorSpacing/*.php</include-pattern>
     </rule>
+    <rule ref="PSR12.Properties.ConstantVisibility">
+        <include-pattern>./src/PSR12/Properties/ConstantVisibility/*.php</include-pattern>
+    </rule>
 
 </ruleset>
