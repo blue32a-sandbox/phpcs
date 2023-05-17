@@ -57,5 +57,8 @@
     <rule ref="PSR12.Properties.ConstantVisibility">
         <include-pattern>./src/PSR12/Properties/ConstantVisibility/*.php</include-pattern>
     </rule>
+    <rule ref="PSR12.Traits.UseDeclaration">
+        <include-pattern>./src/PSR12/Traits/UseDeclaration/*.php</include-pattern>
+    </rule>
 
 </ruleset>
