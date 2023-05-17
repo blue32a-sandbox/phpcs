@@ -48,5 +48,8 @@
     <rule ref="PSR12.Keywords.ShortFormTypeKeywords">
         <include-pattern>./src/PSR12/Keywords/ShortFormTypeKeywords/*.php</include-pattern>
     </rule>
+    <rule ref="PSR12.Namespaces.CompoundNamespaceDepth">
+        <include-pattern>./src/PSR12/Namespaces/CompoundNamespaceDepth/*.php</include-pattern>
+    </rule>
 
 </ruleset>
