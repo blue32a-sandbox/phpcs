@@ -51,5 +51,8 @@
     <rule ref="PSR12.Namespaces.CompoundNamespaceDepth">
         <include-pattern>./src/PSR12/Namespaces/CompoundNamespaceDepth/*.php</include-pattern>
     </rule>
+    <rule ref="PSR12.Operators.OperatorSpacing">
+        <include-pattern>./src/PSR12/Operators/OperatorSpacing/*.php</include-pattern>
+    </rule>
 
 </ruleset>
