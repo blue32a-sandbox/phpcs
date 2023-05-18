@@ -2,7 +2,7 @@
 <ruleset name="MyStandard">
     <description>A custom coding standard</description>
 
-    <file>./src</file>
+    <file>./src/PSR12</file>
 
     <arg name="report-summary"/>
     <arg name="report-full"/>
