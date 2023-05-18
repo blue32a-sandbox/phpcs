@@ -18,5 +18,8 @@
     <rule ref="PSR2.ControlStructures.ControlStructureSpacing">
         <include-pattern>./src/PSR2/ControlStructures/ControlStructureSpacing/*.php</include-pattern>
     </rule>
+    <rule ref="PSR2.ControlStructures.ElseIfDeclaration">
+        <include-pattern>./src/PSR2/ControlStructures/ElseIfDeclaration/*.php</include-pattern>
+    </rule>
 
 </ruleset>
