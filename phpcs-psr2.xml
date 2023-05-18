@@ -12,5 +12,8 @@
     <rule ref="PSR2.Classes.ClassDeclaration">
         <include-pattern>./src/PSR2/Classes/ClassDeclaration/*.php</include-pattern>
     </rule>
+    <rule ref="PSR2.Classes.PropertyDeclaration">
+        <include-pattern>./src/PSR2/Classes/PropertyDeclaration/*.php</include-pattern>
+    </rule>
 
 </ruleset>
