@@ -15,5 +15,8 @@
     <rule ref="PSR2.Classes.PropertyDeclaration">
         <include-pattern>./src/PSR2/Classes/PropertyDeclaration/*.php</include-pattern>
     </rule>
+    <rule ref="PSR2.ControlStructures.ControlStructureSpacing">
+        <include-pattern>./src/PSR2/ControlStructures/ControlStructureSpacing/*.php</include-pattern>
+    </rule>
 
 </ruleset>
