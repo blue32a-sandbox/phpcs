@@ -42,5 +42,8 @@
     <rule ref="PSR2.Namespaces.NamespaceDeclaration">
         <include-pattern>./src/PSR2/Namespaces/NamespaceDeclaration/*.php</include-pattern>
     </rule>
+    <rule ref="PSR2.Namespaces.UseDeclaration">
+        <include-pattern>./src/PSR2/Namespaces/UseDeclaration/*.php</include-pattern>
+    </rule>
 
 </ruleset>
