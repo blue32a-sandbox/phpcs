@@ -27,5 +27,8 @@
     <rule ref="PSR2.Files.ClosingTag">
         <include-pattern>./src/PSR2/Files/ClosingTag/*.php</include-pattern>
     </rule>
+    <rule ref="PSR2.Files.EndFileNewline">
+        <include-pattern>./src/PSR2/Files/EndFileNewline/*.php</include-pattern>
+    </rule>
 
 </ruleset>
