@@ -30,5 +30,8 @@
     <rule ref="PSR2.Files.EndFileNewline">
         <include-pattern>./src/PSR2/Files/EndFileNewline/*.php</include-pattern>
     </rule>
+    <rule ref="PSR2.Methods.FunctionCallSignature">
+        <include-pattern>./src/PSR2/Methods/FunctionCallSignature/*.php</include-pattern>
+    </rule>
 
 </ruleset>
