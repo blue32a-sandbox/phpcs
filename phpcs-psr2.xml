@@ -39,5 +39,8 @@
     <rule ref="PSR2.Methods.MethodDeclaration">
         <include-pattern>./src/PSR2/Methods/MethodDeclaration/*.php</include-pattern>
     </rule>
+    <rule ref="PSR2.Namespaces.NamespaceDeclaration">
+        <include-pattern>./src/PSR2/Namespaces/NamespaceDeclaration/*.php</include-pattern>
+    </rule>
 
 </ruleset>
