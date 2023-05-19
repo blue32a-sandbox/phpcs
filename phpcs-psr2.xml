@@ -36,5 +36,8 @@
     <rule ref="PSR2.Methods.FunctionClosingBrace">
         <include-pattern>./src/PSR2/Methods/FunctionClosingBrace/*.php</include-pattern>
     </rule>
+    <rule ref="PSR2.Methods.MethodDeclaration">
+        <include-pattern>./src/PSR2/Methods/MethodDeclaration/*.php</include-pattern>
+    </rule>
 
 </ruleset>
