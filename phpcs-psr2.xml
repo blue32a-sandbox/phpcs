@@ -24,5 +24,8 @@
     <rule ref="PSR2.ControlStructures.SwitchDeclaration">
         <include-pattern>./src/PSR2/ControlStructures/SwitchDeclaration/*.php</include-pattern>
     </rule>
+    <rule ref="PSR2.Files.ClosingTag">
+        <include-pattern>./src/PSR2/Files/ClosingTag/*.php</include-pattern>
+    </rule>
 
 </ruleset>
