@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ruleset name="MyStandard">
+    <description>A custom coding standard</description>
+
+    <file>./src/PSR1</file>
+
+    <arg name="report-summary"/>
+    <arg name="report-full"/>
+    <arg value="sp"/>
+
+    <rule ref="PSR1.Classes.ClassDeclaration">
+        <include-pattern>./src/PSR1/Classes/ClassDeclaration/*.php</include-pattern>
+    </rule>
+
+</ruleset>

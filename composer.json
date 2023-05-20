@@ -8,6 +8,7 @@
         "squizlabs/php_codesniffer": "^3.7"
     },
     "scripts": {
+        "phpcs:psr1": "vendor/bin/phpcs --standard=phpcs-psr1.xml",
         "phpcs:psr2": "vendor/bin/phpcs --standard=phpcs-psr2.xml",
         "phpcs:psr12": "vendor/bin/phpcs --standard=phpcs-psr12.xml"
     }
