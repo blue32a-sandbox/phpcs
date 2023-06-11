@@ -1,7 +1,12 @@
 <?php
 
-somefunction( $foo, $bar );
+foo ( $bar, $baz );
 
-somefunction2(
-  $foo,
-    $bar);
+foo(
+  $bar,
+      $baz
+);
+
+foo(
+    $bar,
+    $baz);
